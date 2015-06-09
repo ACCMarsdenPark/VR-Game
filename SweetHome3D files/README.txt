@@ -1,0 +1,1 @@
+Place SweetHome3D files in here!
